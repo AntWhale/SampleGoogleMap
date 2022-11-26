@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SampleGoogleMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_key">AIzaSyAlDPoGm40-wlvmgLpFPvu9vCKPQirZ0Hc</string>
+<!--tempXCNTSeMergeStrategy="preserve" transXCNTSable="false"-->
+</resources>
